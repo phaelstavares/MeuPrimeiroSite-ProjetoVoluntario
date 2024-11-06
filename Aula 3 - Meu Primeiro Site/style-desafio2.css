@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(243, 238, 232);
+    color: #242424;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    height: 100%;
+}
+
+h1{
+    padding: 0;
+    text-shadow: 2px 2px #bd0e0e;
+}
+
+h4{
+    margin-bottom: 0;
+}
+
+p{
+    text-transform: capitalize;
+    line-height: 1.5;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}

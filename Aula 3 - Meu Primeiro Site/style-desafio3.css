@@ -1,0 +1,19 @@
+body{
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.sec2{
+    border: solid 2px red;
+    margin: 50px;
+    padding: 50px;
+}
+
+.sec1 p{
+    text-align: center;
+}
